@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "930986608359",
+    "firebase_url": "https://cleanermap-kotlin.firebaseio.com",
+    "project_id": "cleanermap-kotlin",
+    "storage_bucket": "cleanermap-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930986608359:android:ab987d4ee92f7024",
+        "android_client_info": {
+          "package_name": "cleanermap.cleanermap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930986608359-igvo7v88nck82ckb00mhmps3cu0rmib1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cleanermap.cleanermap",
+            "certificate_hash": "b3f63bfc2d8a25bd213b7f911b7a304471421419"
+          }
+        },
+        {
+          "client_id": "930986608359-4bsdkqg431boh6a4ak8g2gp4otsc1ac3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfAj1souyTKz0HbN6utr13a4jUBY9G_vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930986608359-4bsdkqg431boh6a4ak8g2gp4otsc1ac3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
